@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/malicious
+echo 7asec PoC
